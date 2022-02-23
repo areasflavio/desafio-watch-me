@@ -77,6 +77,9 @@ cd desafio-watch-me
 # Install dependencies for the application
 yarn install
 
+# To start the api server, run the following command
+yarn server
+
 # To start the development server, run the following command
 yarn dev
 ```
